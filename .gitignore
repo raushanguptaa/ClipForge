@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+temp_uploads/
+generated_clips/
+generated_trimmed/
+backend/generated_clips/
