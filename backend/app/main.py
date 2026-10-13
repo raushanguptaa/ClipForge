@@ -29,7 +29,8 @@ app.add_middleware(
 allow_origins=[
     "http://localhost:3000",
     "https://clip-forge-rho-six.vercel.app",
-    "https://clip-forge-555il251b-raushanguptaas-projects.vercel.app",],
+    "https://clip-forge-555il251b-raushanguptaas-projects.vercel.app",
+    "https://clip-forge-1lr39y02l-raushanguptaas-projects.vercel.app",],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
